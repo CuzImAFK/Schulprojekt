@@ -1,7 +1,0 @@
-﻿  main.cpp
-C:\Users\Moritz\source\repos\C++\C++\main.cpp(6,11): error C2001: Zeilenvorschub in Konstante.
-C:\Users\Moritz\source\repos\C++\C++\main.cpp(6,11): error C2143: Syntaxfehler: Es fehlt ";" vor "Zeichenfolge"
-C:\Users\Moritz\source\repos\C++\C++\main.cpp(6,5): warning C4551: Dem Funktionsaufruf fehlt die Argumentliste
-C:\Users\Moritz\source\repos\C++\C++\main.cpp(7,8): error C2143: Syntaxfehler: Es fehlt ";" vor "std::cout"
-C:\Users\Moritz\source\repos\C++\C++\main.cpp(7,21): error C2275: "std::string": Ungültige Verwendung dieses Typs als Ausdruck
-C:\Users\Moritz\source\repos\C++\C++\main.cpp(7): message : Siehe Deklaration von "std::string"
