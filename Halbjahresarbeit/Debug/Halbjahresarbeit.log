@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""class menu __cdecl mainmenu(void)" (?mainmenu@@YA?AVmenu@@XZ)" in Funktion "_main".
+C:\Users\Moritz\source\repos\Halbjahresarbeit\Debug\Halbjahresarbeit.exe : fatal error LNK1120: 1 nicht aufgelöste Externe
